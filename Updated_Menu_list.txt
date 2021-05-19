@@ -15,3 +15,5 @@ Non-veg items
 Pepper Chikcen
 Butter chicken
 Mutton chukka
+
+Chicken Fried rice (updated in VS Code)
